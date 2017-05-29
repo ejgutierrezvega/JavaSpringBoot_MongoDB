@@ -1,0 +1,6 @@
+/root/JavaProjects/Version1/learning-profile/src/main/java/com/learning/profile/controller/ProfileController.java
+/root/JavaProjects/Version1/learning-profile/src/main/java/com/learning/repository/IPersonRepository.java
+/root/JavaProjects/Version1/learning-profile/src/main/java/com/learning/profile/models/Person.java
+/root/JavaProjects/Version1/learning-profile/src/main/java/com/learning/profile/Application.java
+/root/JavaProjects/Version1/learning-profile/src/main/java/com/learning/repository/RepositoryConfiguration.java
+/root/JavaProjects/Version1/learning-profile/src/main/java/com/learning/profile/controller/BaseController.java
