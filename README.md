@@ -1,6 +1,13 @@
 Basic Rest Java Spring Boot.
 
-Considering the following features.
+Language: Java
+Framework: Spring Boot
+IDE: Spring Suite Tools
+Build plugin: Maven
+
+Features.
 - Rest controller.
 - Mongo repository.
-- Application configuration.
+- Application properties.
+
+...to be continue
